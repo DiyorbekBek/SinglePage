@@ -45,6 +45,7 @@
 }
 
 .btn {
+  font-family: "Plus Jakarta Sans";
   width: 228px;
   height: 56px;
   flex-shrink: 0;
